@@ -1,0 +1,3 @@
+https://gilberttanner.com/blog/scraping-redditdata
+
+https://praw.readthedocs.io/en/latest/code_overview/models/submission.html
