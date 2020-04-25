@@ -24,3 +24,6 @@ Using the [PRAW API](https://praw.readthedocs.io/en/latest/index.html), I was ab
 | SVC Degrees | 2, 3|
 
 Dialing in more of the features and iterating more could yield better results.  Additionally, using cloud computing and AWS could allow me to use a larger dataset in a reasonable amount of time.  Also, looking at more recent posts than just the all-time top posts should help narrow down results because language and terms can change over time in these subreddits.  When both involved looking at current events recency can be important.  
+
+
+**Note:** I had to remove the .csvs of my data since they were too large to upload to GitHub.  I still have them on my local machine.
